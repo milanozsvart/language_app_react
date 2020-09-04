@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b3778eb5.chunk.css",
+    "main.js": "./static/js/main.75f5826c.chunk.js",
+    "main.js.map": "./static/js/main.75f5826c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ad3ba77d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ad3ba77d.js.map",
+    "static/js/2.c241d8b5.chunk.js": "./static/js/2.c241d8b5.chunk.js",
+    "static/js/2.c241d8b5.chunk.js.map": "./static/js/2.c241d8b5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.3fcc7d9c0686bbf64ca1547fe0b86dca.js": "./precache-manifest.3fcc7d9c0686bbf64ca1547fe0b86dca.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.b3778eb5.chunk.css.map": "./static/css/main.b3778eb5.chunk.css.map",
+    "static/js/2.c241d8b5.chunk.js.LICENSE.txt": "./static/js/2.c241d8b5.chunk.js.LICENSE.txt",
+    "static/media/english-flag.svg": "./static/media/english-flag.ffa68d05.svg",
+    "static/media/french-flag.svg": "./static/media/french-flag.549b2c2b.svg",
+    "static/media/styles.css": "./static/media/green_pink_small.4361fb2c.svg",
+    "static/media/hungarian-flag.svg": "./static/media/hungarian-flag.f2222739.svg",
+    "static/media/norwegian-flag.svg": "./static/media/norwegian-flag.d1bdd1fa.svg",
+    "static/media/polish-flag.svg": "./static/media/polish-flag.d3d27d6c.svg",
+    "static/media/yla-logo.svg": "./static/media/yla-logo.35f645bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad3ba77d.js",
+    "static/js/2.c241d8b5.chunk.js",
+    "static/css/main.b3778eb5.chunk.css",
+    "static/js/main.75f5826c.chunk.js"
+  ]
+}
